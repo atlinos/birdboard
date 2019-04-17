@@ -34,3 +34,5 @@
         <a href="{{ $project->path() }}">Cancel</a>
     </div>
 </div>
+
+@include('errors')
